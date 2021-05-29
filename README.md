@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohsen 
-- 👋 I’m a software engineer and a human being :)
+- 👯 I’m a software engineer and a human being :)
 - 👀 I’m interested in alghoritms, data analysis and visulaization
 - 🌱 I’m currently learning set-theory and usage of the math in RDBMS theory 
 - 💞️ I’m looking to collaborate on data processing projects 
